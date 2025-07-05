@@ -85,10 +85,3 @@ This spawns a **shell** directly from the MySQL client, allowing command executi
 * Lab completed ✅
 
 ---
-
-## 💬 Repo Description (for GitHub)
-
-> **Dawn Lab Walkthrough**
-> A CTF-style penetration testing guide for a vulnerable machine named **Dawn**, covering enumeration via HTTP, SMB, and MySQL, with an unusual privilege escalation through shell escape in MySQL. Great for red team practice and MySQL exploitation learning.
-
----
