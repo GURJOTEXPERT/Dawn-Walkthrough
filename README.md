@@ -3,8 +3,7 @@
 # Dawn Walkthrough
 
 ## 📝 Description
-
-**Dawn** is a penetration testing lab that simulates a real-world scenario with exposed Samba, HTTP, and MySQL services. This walkthrough covers initial reconnaissance, service enumeration, SMB login attempts, and privilege escalation using MySQL exploitation techniques. The lab is suitable for beginners to intermediate-level CTF and red team learners.
+Dawn is a penetration testing lab that simulates a real-world scenario with exposed Samba, HTTP, and MySQL services. This walkthrough covers initial reconnaissance, service enumeration, SMB login attempts, and privilege escalation using MySQL exploitation techniques. The lab is suitable for beginners to intermediate-level CTF and red team learners.
 
 ---
 
